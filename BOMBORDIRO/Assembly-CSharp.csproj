@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CrocoRun.cs" />
+    <Compile Include="Assets\Scripts\PlayerControll.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
